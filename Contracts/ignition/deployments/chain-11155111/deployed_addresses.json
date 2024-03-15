@@ -1,0 +1,5 @@
+{
+  "StakeTokenModule#StakeToken": "0x02004c1CB9BAF072Cde02F0b8A1111A25E6ED5a7",
+  "RewardTokenModule#RewardToken": "0x4D44A69C08296eD049681a312fa3fACBD0De65c1",
+  "StakingPoolModule#StakingPool": "0x440566faD740939E64768daCDFac17Ecd056b19A"
+}
